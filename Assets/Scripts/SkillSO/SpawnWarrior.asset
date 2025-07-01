@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2f01339444b0c8342afeafac846cca65, type: 3}
+  m_Name: SpawnWarrior
+  m_EditorClassIdentifier: 
+  supportSkills: {fileID: 5458202561866953758, guid: 4a5f3c665b604b54b9a66ad3d521b493, type: 3}
+  spriteUI: {fileID: -1157943557, guid: 8b7d2bfdcdb5d8a418853f038af24ba8, type: 3}
+  CooldownTime: 10

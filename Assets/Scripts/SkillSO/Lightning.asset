@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2f01339444b0c8342afeafac846cca65, type: 3}
+  m_Name: Lightning
+  m_EditorClassIdentifier: 
+  supportSkills: {fileID: 5748894996569592944, guid: 3c369212c0387d94593b7f859edae514, type: 3}
+  spriteUI: {fileID: 21300000, guid: 0292a18bc526d074381aef65c53ec954, type: 3}
+  CooldownTime: 30

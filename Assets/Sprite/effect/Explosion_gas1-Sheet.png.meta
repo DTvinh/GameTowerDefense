@@ -1,0 +1,356 @@
+fileFormatVersion: 2
+guid: cc0167c6febf7104ca21e6eda7d6e2d2
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Explosion_gas1-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 90
+        width: 67
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5188776, y: 0.3654506}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d93ce64d537efe4da98dc2f569d39c0
+      internalID: 750964632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_gas1-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 89
+        width: 98
+        height: 66
+      alignment: 9
+      pivot: {x: 0.4999997, y: 0.26046163}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a76b4ebe7f0d1ca4181a948dd865c3d7
+      internalID: -42230899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_gas1-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 80
+        width: 98
+        height: 75
+      alignment: 9
+      pivot: {x: 0.46729043, y: 0.29198003}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b46f9f2cf8f74f648b68b9f576e980fd
+      internalID: 850681983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_gas1-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 77
+        width: 119
+        height: 90
+      alignment: 9
+      pivot: {x: 0.49468482, y: 0.26812667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d083b4a2633a914d9d1554b88f07627
+      internalID: -229418210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_gas1-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 76
+        width: 144
+        height: 103
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26669437}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7a2cfb00e862624a99852a234d91928
+      internalID: 1744051402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_gas1-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 1418
+        y: 67
+        width: 153
+        height: 112
+      alignment: 9
+      pivot: {x: 0.48346704, y: 0.20767283}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 921e37092c2dcb5448097057c8c1f7e1
+      internalID: -1928895313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_gas1-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 1669
+        y: 63
+        width: 168
+        height: 130
+      alignment: 9
+      pivot: {x: 0.49999928, y: 0.23245421}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c449cbc4c2d06e4b9c74283d2fcd8b1
+      internalID: -1307979391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_gas1-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 1913
+        y: 70
+        width: 182
+        height: 124
+      alignment: 9
+      pivot: {x: 0.5173729, y: 0.28580636}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a554a3aee1d7a414d95652e6e5eb5662
+      internalID: 1908941139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_gas1-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 2175
+        y: 65
+        width: 179
+        height: 129
+      alignment: 9
+      pivot: {x: 0.5035325, y: 0.2058691}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa4a7e95d9511a34da439014e9d75c79
+      internalID: -682002735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_gas1-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 2411
+        y: 58
+        width: 149
+        height: 136
+      alignment: 9
+      pivot: {x: 0.49999836, y: 0.19310929}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 397dc030f4e0db046a9b5b08046c19bd
+      internalID: -1316693082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_gas1-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 2449
+        y: 7
+        width: 50
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffaadb783cb7cb041b68d86991a0a980
+      internalID: -831576364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Explosion_gas1-Sheet_0: 750964632
+      Explosion_gas1-Sheet_1: -42230899
+      Explosion_gas1-Sheet_10: -831576364
+      Explosion_gas1-Sheet_2: 850681983
+      Explosion_gas1-Sheet_3: -229418210
+      Explosion_gas1-Sheet_4: 1744051402
+      Explosion_gas1-Sheet_5: -1928895313
+      Explosion_gas1-Sheet_6: -1307979391
+      Explosion_gas1-Sheet_7: 1908941139
+      Explosion_gas1-Sheet_8: -682002735
+      Explosion_gas1-Sheet_9: -1316693082
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

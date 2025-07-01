@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Line
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Enemy
+  - Knight
+  - Line
+  - Tower
+  - Tree
+  - Sheep
+  - Harvest
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: ground
+    uniqueID: 3663989005
+    locked: 0
+  - name: building
+    uniqueID: 2538957053
+    locked: 0
+  - name: Knight
+    uniqueID: 4176072573
+    locked: 0
+  - name: top
+    uniqueID: 3646003245
+    locked: 0
+  - name: UI
+    uniqueID: 3638951023
+    locked: 0

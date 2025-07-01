@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Warrior_Purple
+  m_Controller: {fileID: 9100000, guid: 9588cda831a97f343b65acfd06906b11, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 5fff768e9c6b5c641b8488519c547779, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 24b8c2d1197b383418a04f9bc0314ca4, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: b5495b2981f6f9b4ab46673d3094572e, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 4781176fe7dd04a4bac1253d004d7b6e, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: aaa7911e56adfe24489a3d3456b4b894, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: b595bf2744327ae44837f1a577b18854, type: 2}
